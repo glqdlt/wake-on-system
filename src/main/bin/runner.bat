@@ -1,0 +1,1 @@
+java -jar ./wake-on-system.jar  -Dspring.profiles.active=product
