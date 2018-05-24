@@ -5,7 +5,7 @@
 
 	<groupId>com.glqdlt.myhome</groupId>
 	<artifactId>wake-on-system</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>wake-on-system</name>
