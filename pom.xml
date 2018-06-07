@@ -56,5 +56,15 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<snapshotRepository>
+			<id>snap</id>
+			<url>http://192.168.148.139:18081/repository/maven-snapshots/</url>
+		</snapshotRepository>
+		<repository>
+			<id>rel</id>
+			<url>http://192.168.148.139:18081/repository/maven-releases/</url>
+		</repository>
+	</distributionManagement>
 
 </project>
